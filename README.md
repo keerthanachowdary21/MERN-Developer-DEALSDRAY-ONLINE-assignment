@@ -6,12 +6,8 @@ The form allows users to submit their details such as name, email, phone number,
 ### Registration Form
 <div><img src='https://drive.google.com/uc?export=view&id=1RmICQncyfTLpeP-IOa_HD7okB-MtiSz4' alt='Registration Form output' /></div>
 
-### Registration Form output
-<div>
-  <video width="640" height="360" controls>
-    <source src="https://drive.google.com/uc?export=download&id=1qu36_jfeGy5wje1JDmdW2KPLR9hQ8fE9" type="video/mp4">
-  </video>
-</div>
+[Registration Form output](https://www.linkedin.com/posts/keerthana-chowdary-bb97a3270_webdevelopment-nodejs-mongodb-activity-7250435666780512256-VAR-?utm_source=share&utm_medium=member_desktop)
+
 
   
 ## Features
