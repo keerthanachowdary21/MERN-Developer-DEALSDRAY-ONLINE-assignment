@@ -9,9 +9,10 @@ The form allows users to submit their details such as name, email, phone number,
 ### Registration Form output
 <div>
   <video width="640" height="360" controls>
-  <source src="https://drive.usercontent.google.com/download?id=1qu36_jfeGy5wje1JDmdW2KPLR9hQ8fE9&export=view&authuser=0" type="video/mp4">
-</video>
+    <source src="https://drive.google.com/uc?export=download&id=1qu36_jfeGy5wje1JDmdW2KPLR9hQ8fE9" type="video/mp4">
+  </video>
 </div>
+
   
 ## Features
 
