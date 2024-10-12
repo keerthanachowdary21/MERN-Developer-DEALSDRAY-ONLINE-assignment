@@ -1,6 +1,6 @@
 # User Registration Form with MongoDB, Express, and Node.js
 
-This is a basic **User Registration** form project using Node.js, Express, and MongoDB. 
+This basic **User Registration** form project uses Node.js, Express, and MongoDB. 
 The form allows users to submit their details such as name, email, phone number, gender, designation, and course selection. Upon submission, the data is stored in a MongoDB database.
 
 ### Registration Form
