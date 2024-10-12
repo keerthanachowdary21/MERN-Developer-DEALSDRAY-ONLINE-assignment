@@ -65,7 +65,8 @@ Before you begin, ensure you have the following installed on your system:
 
 The application will be accessible at http://localhost:3000.
 
-Routes
+### Routes
+
 **GET /: Serves the registration form page.**
 
 **POST /sign_up: Accepts the form data and inserts it into the MongoDB collection.**
